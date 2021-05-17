@@ -1,5 +1,10 @@
 # Mood-Player
-Mood Player is an Deep learning Object detection model used for playing a random song according to your mood.
+Mood Player is an Deep learning Object detection model used for playing a random song according to your mood. Song cant be shown in GIF :P
+
+
+![Mein Video (1)](https://user-images.githubusercontent.com/51056214/118481123-6d3e6780-b713-11eb-9f83-2dd788201c8c.gif)
+
+
 
 Have you ever Wondered, a music player that can automatically play song according to your mood. Then you are at right place.
 The file has two Scripts. 
@@ -27,8 +32,11 @@ Step 4: Install IpyKernel so that you can attach the environment with Jupyter no
     pip install ipykernel
     python -m ipykernel install --user --name=EnvironmentName
 
-Step 5: Open the Jupyter notebook Click Your Environment in the Corner and Select it.
+Step 5: Open the Jupyter notebook Click Your Environment in the Corner and Select it. My Environment name was Expression :)
+![Environment](https://user-images.githubusercontent.com/51056214/118480998-48e28b00-b713-11eb-98fd-e90f4011301c.png)
 
 
 Step 6: Execute the Preprocessing Library and Then Training and Validation Library.
 
+
+Reference and Big Help From : [Nicholas Renotte](https://github.com/nicknochnack/)
