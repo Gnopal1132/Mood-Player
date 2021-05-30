@@ -46,7 +46,7 @@ Step 6: Execute the Preprocessing Library and Then Training and Validation Libra
 The instruction are extremely Clear.
 Some Points:
 
-1. We are using the LabelImager for creating the bounding box and labelling the image. I have used standard github ![repo](https://github.com/tzutalin/labelImg)
+1. We are using the LabelImager for creating the bounding box and labelling the image. I have used standard github repo.
 
 ![Unbenannt](https://user-images.githubusercontent.com/51056214/120103049-12166700-c14e-11eb-8a56-0bc101b12c67.png)
 
